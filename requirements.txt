@@ -6,9 +6,6 @@ plotly
 streamlit-folium
 folium
 numpy
-plotly-express
-plotly-graph-objects
-streamlit-plotly-mapbox-events
 gdown
 pandas
 numpy
